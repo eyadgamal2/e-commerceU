@@ -1,0 +1,13 @@
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+
+
+.slick-slider {
+    overflow: hidden;
+  }
+  .slick-slide img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
